@@ -1,2 +1,4 @@
-# .github-private
-Github repo som innehåller d-sektionens kodwiki och information på frontsidan
+# D-Sektionens Github-sida
+
+## Länkar
+- [D-Sektionens kodwiki](https://github.com/d-sektionen/.github-private/wiki)
